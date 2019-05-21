@@ -8,5 +8,5 @@ result.encoding = 'utf-8'
 soup = BeautifulSoup(result.text, 'lxml')
 contents = soup.find_all('p')
 for content in contents:
-    print(re.findall(r'\d、{.*?}:', content, re.S))
+    print(re.findall(r'{.*?}:', content, re.S))
 
