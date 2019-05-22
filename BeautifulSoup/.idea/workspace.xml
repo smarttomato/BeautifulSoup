@@ -2,6 +2,143 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe2a3b85-99aa-48ec-8b5b-4c6a0536ac20" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/get_contents_all.py" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/get_contents_all.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第一部/1.疯狂年代.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第一部/1.疯狂年代.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第一部/10.大史.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第一部/10.大史.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第一部/11.三体、墨子、烈焰.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第一部/11.三体、墨子、烈焰.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第一部/12.红岸之二.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第一部/12.红岸之二.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第一部/13.红岸之三.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第一部/13.红岸之三.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第一部/14.红岸之四.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第一部/14.红岸之四.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第一部/15.三体、哥白尼、宇宙橄榄球、三日凌空.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第一部/15.三体、哥白尼、宇宙橄榄球、三日凌空.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第一部/16.三体问题.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第一部/16.三体问题.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第一部/17.三体、牛顿、冯·诺依曼、秦始皇、三日连珠.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第一部/17.三体、牛顿、冯·诺依曼、秦始皇、三日连珠.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第一部/18.聚会.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第一部/18.聚会.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第一部/19.三体、爱因斯坦、单摆、大撕裂.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第一部/19.三体、爱因斯坦、单摆、大撕裂.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第一部/2.寂静的春天.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第一部/2.寂静的春天.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第一部/20.三体、远征.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第一部/20.三体、远征.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第一部/21.地球叛军.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第一部/21.地球叛军.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第一部/22.红岸之五.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第一部/22.红岸之五.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第一部/23.红岸之六.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第一部/23.红岸之六.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第一部/24.叛乱.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第一部/24.叛乱.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第一部/25.雷志成、杨卫宁之死.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第一部/25.雷志成、杨卫宁之死.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第一部/26.无人忏悔.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第一部/26.无人忏悔.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第一部/27.伊文斯.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第一部/27.伊文斯.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第一部/28.第二红岸基地.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第一部/28.第二红岸基地.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第一部/29.地球三体运动.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第一部/29.地球三体运动.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第一部/3.红岸之一.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第一部/3.红岸之一.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第一部/30.两个质子.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第一部/30.两个质子.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第一部/31.古筝行动.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第一部/31.古筝行动.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第一部/32.监听员.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第一部/32.监听员.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第一部/33.智子.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第一部/33.智子.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第一部/34.虫子.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第一部/34.虫子.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第一部/35.尾声、遗址.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第一部/35.尾声、遗址.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第一部/4.科学边界.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第一部/4.科学边界.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第一部/5.台球.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第一部/5.台球.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第一部/6.射手和农场主.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第一部/6.射手和农场主.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第一部/7.三体、周文王、长夜.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第一部/7.三体、周文王、长夜.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第一部/8.叶文洁.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第一部/8.叶文洁.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第一部/9.宇宙闪烁.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第一部/9.宇宙闪烁.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第一部/后记.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第一部/后记.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第一部 《时间之外的往事》序言（节选）.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第一部 《时间之外的往事》序言（节选）.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第一部 第一章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第一部 第一章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第一部 第七章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第一部 第七章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第一部 第三章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第一部 第三章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第一部 第二章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第一部 第二章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第一部 第五章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第一部 第五章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第一部 第八章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第一部 第八章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第一部 第六章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第一部 第六章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第一部 第四章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第一部 第四章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第一部 纪年对照表.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第一部 纪年对照表.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第三部 第一章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第三部 第一章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第三部 第七章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第三部 第七章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第三部 第三章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第三部 第三章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第三部 第九章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第三部 第九章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第三部 第二章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第三部 第二章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第三部 第五章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第三部 第五章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第三部 第八章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第三部 第八章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第三部 第六章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第三部 第六章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第三部 第十一章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第三部 第十一章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第三部 第十二章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第三部 第十二章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第三部 第十章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第三部 第十章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第三部 第四章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第三部 第四章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第二部 第一章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第二部 第一章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第二部 第七章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第二部 第七章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第二部 第三章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第二部 第三章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第二部 第九章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第二部 第九章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第二部 第二章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第二部 第二章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第二部 第五章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第二部 第五章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第二部 第八章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第二部 第八章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第二部 第六章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第二部 第六章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第二部 第十一章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第二部 第十一章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第二部 第十三章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第二部 第十三章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第二部 第十二章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第二部 第十二章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第二部 第十五章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第二部 第十五章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第二部 第十四章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第二部 第十四章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第二部 第十章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第二部 第十章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第二部 第四章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第二部 第四章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第五部 第一章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第五部 第一章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第五部 第三章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第五部 第三章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第五部 第二章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第五部 第二章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第五部 第五章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第五部 第五章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第五部 第四章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第五部 第四章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第六部 第一章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第六部 第一章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第六部 第三章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第六部 第三章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第六部 第二章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第六部 第二章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第六部 第四章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第六部 第四章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第四部 第一章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第四部 第一章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第四部 第三章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第四部 第三章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第三部/第四部 第二章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第三部/第四部 第二章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/上部 面壁者 序章.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/上部 面壁者 序章.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/上部 面壁者 第10部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/上部 面壁者 第10部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/上部 面壁者 第11部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/上部 面壁者 第11部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/上部 面壁者 第12部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/上部 面壁者 第12部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/上部 面壁者 第13部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/上部 面壁者 第13部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/上部 面壁者 第14部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/上部 面壁者 第14部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/上部 面壁者 第15部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/上部 面壁者 第15部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/上部 面壁者 第16部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/上部 面壁者 第16部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/上部 面壁者 第1部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/上部 面壁者 第1部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/上部 面壁者 第2部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/上部 面壁者 第2部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/上部 面壁者 第3部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/上部 面壁者 第3部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/上部 面壁者 第4部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/上部 面壁者 第4部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/上部 面壁者 第5部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/上部 面壁者 第5部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/上部 面壁者 第6部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/上部 面壁者 第6部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/上部 面壁者 第7部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/上部 面壁者 第7部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/上部 面壁者 第8部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/上部 面壁者 第8部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/上部 面壁者 第9部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/上部 面壁者 第9部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第10部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第10部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第11部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第11部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第12部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第12部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第13部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第13部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第14部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第14部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第15部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第15部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第16部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第16部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第17部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第17部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第18部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第18部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第19部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第19部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第1部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第1部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第20部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第20部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第21部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第21部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第2部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第2部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第3部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第3部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第4部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第4部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第5部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第5部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第6部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第6部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第7部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第7部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第8部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第8部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第9部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/下部 黑暗森林 第9部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/中部 咒语 第10部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/中部 咒语 第10部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/中部 咒语 第11部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/中部 咒语 第11部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/中部 咒语 第12部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/中部 咒语 第12部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/中部 咒语 第1部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/中部 咒语 第1部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/中部 咒语 第2部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/中部 咒语 第2部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/中部 咒语 第3部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/中部 咒语 第3部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/中部 咒语 第4部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/中部 咒语 第4部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/中部 咒语 第5部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/中部 咒语 第5部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/中部 咒语 第6部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/中部 咒语 第6部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/中部 咒语 第7部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/中部 咒语 第7部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/中部 咒语 第8部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/中部 咒语 第8部分.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/three bodies/第二部/中部 咒语 第9部分.txt" beforeDir="false" afterPath="$PROJECT_DIR$/three bodies/第二部/中部 咒语 第9部分.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../a.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,61 +151,48 @@
     <SUITE FILE_PATH="coverage/BeautifulSoup$World__of_Plainness.coverage" NAME="World _of_Plainness Coverage Results" MODIFIED="1554364621591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/BeautifulSoup$get_music_list.coverage" NAME="get_music_list Coverage Results" MODIFIED="1558405328191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/qq_music" />
     <SUITE FILE_PATH="coverage/BeautifulSoup$character.coverage" NAME="character Coverage Results" MODIFIED="1554372536693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/BeautifulSoup$get_contents_all.coverage" NAME="get_contents_all Coverage Results" MODIFIED="1558444967882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/three bodies" />
+    <SUITE FILE_PATH="coverage/BeautifulSoup$get_contents_all.coverage" NAME="get_contents_all Coverage Results" MODIFIED="1558505577527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/three bodies" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1961618949">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="py" value="5" />
-          <entry key="txt" value="7" />
+          <entry key="txt" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="PLAIN_TEXT" value="8" />
           <entry key="Python" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="3" />
-          <entry key="py" value="2284" />
+          <entry key="py" value="2345" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="2284" />
+          <entry key="Python" value="2345" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/three bodies/get_contents_all.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-155">
-              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -102,7 +226,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="64" />
-    <option name="y" value="121" />
+    <option name="y" value="62" />
     <option name="width" value="1273" />
     <option name="height" value="727" />
   </component>
@@ -123,24 +247,6 @@
               <item name="BeautifulSoup" type="b2602c69:ProjectViewProjectNode" />
               <item name="BeautifulSoup" type="462c0819:PsiDirectoryNode" />
               <item name="three bodies" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BeautifulSoup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BeautifulSoup" type="462c0819:PsiDirectoryNode" />
-              <item name="three bodies" type="462c0819:PsiDirectoryNode" />
-              <item name="第一部" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BeautifulSoup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BeautifulSoup" type="462c0819:PsiDirectoryNode" />
-              <item name="three bodies" type="462c0819:PsiDirectoryNode" />
-              <item name="第三部" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BeautifulSoup" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BeautifulSoup" type="462c0819:PsiDirectoryNode" />
-              <item name="three bodies" type="462c0819:PsiDirectoryNode" />
-              <item name="第二部" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BeautifulSoup" type="b2602c69:ProjectViewProjectNode" />
@@ -304,9 +410,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="121" width="1273" height="727" extended-state="0" />
+    <frame x="64" y="62" width="1273" height="727" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18440293" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18683997" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -320,7 +426,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32843137" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32843137" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -408,10 +514,13 @@
     <entry file="file://$PROJECT_DIR$/three bodies/第三部/第一部 《时间之外的往事》序言（节选）.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/three bodies/第二部/中部 咒语 第12部分.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/three bodies/get_contents_all.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-155">
-          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        <state relative-caret-position="84">
+          <caret line="60" column="32" selection-start-line="60" selection-start-column="32" selection-end-line="60" selection-end-column="32" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>

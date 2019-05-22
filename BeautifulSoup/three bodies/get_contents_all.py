@@ -16,7 +16,9 @@ def get_contents():
         bs = BeautifulSoup(response.text, 'lxml')
         title = bs.find_all('h1')
         content = bs.find('div', attrs={'class': 'bookcontent clearfix'})
-        content = content.get_text()
+        content = str(content).replace('<br/>', '\n')
+        bs1 = BeautifulSoup(content)
+        content = bs1.text
         if os.path.exists(part_one_path):
             with open(part_one_path+title[1].get_text()+'.txt', 'w') as f:
                 f.write(content)
@@ -33,7 +35,9 @@ def get_contents():
         bs = BeautifulSoup(response.text, 'lxml')
         title = bs.find_all('h1')
         content = bs.find('div', attrs={'class': 'bookcontent clearfix'})
-        content = content.get_text()
+        content = str(content).replace('<br/>', '\n')
+        bs1 = BeautifulSoup(content)
+        content = bs1.text
         if os.path.exists(part_two_path):
             with open(part_two_path+title[1].get_text()+'.txt', 'w') as f:
                 f.write(content)
@@ -49,7 +53,9 @@ def get_contents():
         bs = BeautifulSoup(response.text, 'lxml')
         title = bs.find_all('h1')
         content = bs.find('div', attrs={'class': 'bookcontent clearfix'})
-        content = content.get_text()
+        content = str(content).replace('<br/>', '\n')
+        bs1 = BeautifulSoup(content)
+        content = bs1.text
         if os.path.exists(part_three_path):
             with open(part_three_path + title[1].get_text() + '.txt', 'w') as f:
                 f.write(content)
